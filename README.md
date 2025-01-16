@@ -1,2 +1,2 @@
 # LAB-VI
-Lab Manual Department of Computer Science
+Lab Manual Department of Computer Science VI Semester
